@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "63ae0660-ab66-4ad7-8471-e4ecca9943bc",
+    "userId": "1",
+    "username": "admin",
+    "role": "admin",
+    "action": "FILE_READ",
+    "params": {
+      "path": "file.txt"
+    },
+    "status": "SUCCESS",
+    "error": null,
+    "result": "{\"path\":\"file.txt\",\"content\":\"# Simulated File Content\\nFile: file.txt\\nRead at: 2026-04-24T08:40:46.367Z\\nOwner: admin\\n\\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\\nFile size: 7766 byt",
+    "timestamp": "2026-04-24T08:40:46.378Z"
+  }
+]
